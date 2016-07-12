@@ -1,7 +1,8 @@
-# Typed Jszip  [![Build Status](https://travis-ci.org/it@github.com:sebastianhaas/typed-jszip.svg?branch=master)](https://travis-ci.org/it@github.com:sebastianhaas/typed-jszip)
+# Typed Jszip  [![Build Status](https://travis-ci.org/sebastianhaas/typed-jszip.svg?branch=master)](https://travis-ci.org/sebastianhaas/typed-jszip)
 
 
 The type definition for [`jszip`](https://github.com/Stuk/jszip.git)
+Definitions based on [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/jszip/jszip.d.ts). See original contributors below.
 
 ## LICENSE
 
@@ -31,6 +32,16 @@ e.g. if you are creating typings for `chai@3.5.0`, then:
   // ...
 }
 ```
+
+## Contributors
+From DefinitelyTyped:
+[SaschaNaz](https://github.com/SaschaNaz)
+[vvakame](https://github.com/vvakame)
+[tyfkda](https://github.com/tyfkda)
+[nestalk](https://github.com/nestalk)
+[chbrown](https://github.com/chbrown)
+[borisyankov](https://github.com/borisyankov)
+[mzeiher](https://github.com/mzeiher)
 
 ----
 
